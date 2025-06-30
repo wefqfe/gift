@@ -1,0 +1,16 @@
+html{
+    text-align: left;
+    text-decoration: rgb(0, 0, 0);
+    background-color: rgb(119, 191, 250);
+    text-size-adjust: 31px;
+    scroll-behavior: smooth;
+    padding-left: 3px;
+    padding-bottom: 3px ;
+    padding-right:  3px;
+    padding-top: 3px ;
+    text-emphasis-color: rgb(43, 7, 7);
+    color: rgb(0, 0, 0);
+    font-size:15px ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Arial, sans-serif;
+    
+}
